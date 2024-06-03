@@ -1,0 +1,12 @@
+
+˜
+java:S1149
+"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Óšì­üÿÿÿÿ8›¸¬·ü1J$f4bb2496-1023-43fd-a3fc-52ca031aceb8
+}
+java:S1118":Add a private constructor to hide the implicit public one.(š¿—ð8œ¸¬·ü1J$56d9ef18-312d-429d-b383-612e223163cc
+•
+java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(òøû®8œ¸¬·ü1J$636072f4-6c69-4d26-9d4a-8e27d2bd262a
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¾î²·ü1J$e8233a51-868a-491c-9754-23ffd10914dd
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¾î²·ü1J$8d9ba1ea-9799-4c77-a05a-fb1af7ab81bc

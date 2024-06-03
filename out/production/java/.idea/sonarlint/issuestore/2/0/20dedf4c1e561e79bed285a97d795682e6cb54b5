@@ -1,0 +1,9 @@
+
+t	java:S127 "XRefactor the code in order to not assign to this loop counter from within the loop body.(»³½‹8û…ğÜı1
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ô€¶ùÿÿÿÿ8Á†ğÜı1
+W
+java:S1854":Remove this useless assignment to local variable "maxDay".(õïˆ8Â†ğÜı1
+[
+java:S1854"9Remove this useless assignment to local variable "count".(÷Ù¶Šùÿÿÿÿ8Â†ğÜı1
+r	java:S106B"+Replace this use of System.out by a logger.(´‹¹öşÿÿÿÿ8Ãª»Üı1J$cd7f8bc8-f1cd-455e-b286-7b3550bf0b59

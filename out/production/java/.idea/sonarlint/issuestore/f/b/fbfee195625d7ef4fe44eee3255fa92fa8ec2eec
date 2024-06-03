@@ -1,0 +1,13 @@
+
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³š¸‡úÿÿÿÿ8ÓõÜİı1J$851110d3-849b-4497-ace6-3b1c37d2f2f9
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³š¸‡úÿÿÿÿ8ÓõÜİı1J$194d422a-1184-4ae3-87ee-40f66dbacc8c
+z
+java:S1854"7Remove this useless assignment to local variable "ing".(”¶ïø8¾²áİı1J$bb5d7682-f13f-45ea-9510-2b2ba7016ef8
+V
+java:S1854"9Remove this useless assignment to local variable "after".(°®øñ8È¢âİı1
+™
+java:S1172"QRemove these unused method parameters "bridge_length", "weight", "truck_weights".(³š¸‡úÿÿÿÿ8ÕõÜİı1J$96f0062e-63e6-4b0d-a8dd-d47fc957e7d8
+m
+java:S1481"*Remove this unused "after" local variable.(°®øñ8Á²áİı1J$c3de25c2-8b8d-434a-b296-b528c3f73d69
+E
+java:S1481"(Remove this unused "ing" local variable.(”¶ïø8Ê¢âİı1
