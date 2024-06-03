@@ -23,3 +23,7 @@ J
 algorithm/hash/Player.java,f/e/fe180a7ab49b1e5e8c7fcab92dbd6bfadd508670
 H
 algorithm/hash/Sale.java,5/8/58452441dbdd658c94aee10e10c58e01f307212e
+M
+algorithm/hash/KakaoChat.java,d/3/d3c4504749f5838adda5d14e5196736945631207
+I
+algorithm/hash/Album.java,2/a/2a9bc13b2deef07719770636495ad039fb55bb20
