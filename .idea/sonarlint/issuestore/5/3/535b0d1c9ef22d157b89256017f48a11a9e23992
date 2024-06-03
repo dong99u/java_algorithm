@@ -1,0 +1,8 @@
+
+Œ
+java:S11924"IDefine a constant instead of duplicating this literal "ryan con" 4 times.(«¬Ô8™…şëı1J$535ce1e7-5743-4183-8e93-e8a3fab36f8f
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î±‡ÿÿÿÿÿ8š…şëı1J$fffadfbe-4d52-4b64-85b1-b0587edd4c22
+˜	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÓ¹­úÿÿÿÿ8š…şëı1J$5b63c56e-58f3-4b21-b02a-7312a176e5ad
+d
+java:S3824"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(«×8³â†ìı1
+r	java:S106:"+Replace this use of System.out by a logger.(´‹¹öşÿÿÿÿ8¤…şëı1J$de55410f-edc8-4304-804f-6661ec6f3afe
