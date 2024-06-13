@@ -29,3 +29,13 @@ I
 algorithm/hash/Album.java,2/a/2a9bc13b2deef07719770636495ad039fb55bb20
 O
 algorithm/hash/KakaoReport.java,5/3/535b0d1c9ef22d157b89256017f48a11a9e23992
+N
+algorithm/hash/MenuRenual.java,f/b/fb1a3e131e35e8dbc36780e15b7c7bdd14921854
+N
+algorithm/tree/TravalTree.java,f/d/fd1f4ffdf723d61e5d52740a9d8e16a958df4ab0
+U
+%algorithm/tree/PredictedBrackets.java,5/6/560d628f51fae81017cdebbbf96169b4cd534004
+N
+algorithm/tree/MultiLevel.java,a/d/ad12f9009815743a37edba6d97356f5f42e4cfbf
+P
+ algorithm/tree/SheepAndWolf.java,5/5/55b86f21615f3194a4ca543af08749ce902ac602
