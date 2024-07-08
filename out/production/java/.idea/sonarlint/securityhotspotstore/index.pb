@@ -39,3 +39,15 @@ N
 algorithm/tree/MultiLevel.java,a/d/ad12f9009815743a37edba6d97356f5f42e4cfbf
 P
  algorithm/tree/SheepAndWolf.java,5/5/55b86f21615f3194a4ca543af08749ce902ac602
+O
+algorithm/tree/FindWayGame.java,9/c/9ce54702e0ce65efb0cfe5fabf4832620ebbd1cf
+S
+#algorithm/array/traiangleSnail.java,1/0/10e834e3ac0c08d00f9e67337686dfd81d0d65a0
+S
+#algorithm/string/reverseString.java,9/8/98c77a7333627375d8a71d7e936c811148a5e537
+S
+#algorithm/string/ReverseString.java,0/a/0a2e45f249e4be4f26ec6893e0d8bdf93c1e4c40
+R
+"algorithm/string/CaesarCipher.java,0/0/00b99176055d79254ece5b1fb3b782e916522954
+V
+&algorithm/string/StrangeCharacter.java,6/1/610c0d1f2868c21abf007a5353b7f884ff1db1c3

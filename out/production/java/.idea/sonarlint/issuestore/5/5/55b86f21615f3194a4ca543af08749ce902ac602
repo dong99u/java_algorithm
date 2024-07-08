@@ -1,4 +1,7 @@
 
-‹
-java:S3824"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(ÿš˜¶8Àµò÷€2J$f95ad175-da8e-40d8-8037-fd626fd33b5e
-r	java:S1061"+Replace this use of System.out by a logger.(ÄãıÕøÿÿÿÿ8Äµò÷€2J$97c29c03-9276-4674-898e-b2e51c828a7c
+¬
+java:S1319"dThe type of "visited" should be an interface such as "Set" rather than the implementation "HashSet".(½ôşïüÿÿÿÿ8ÇÅøù€2J$dcef6e4e-a9be-446f-b787-7966aeb1de9f
+…
+java:S1659
+"BDeclare "sheep" and all following declarations on a separate line.(ÃÃÍ–8‡Æøù€2J$2a4493f5-235d-41ce-9cef-87dd7bc5050a
+r	java:S106U"+Replace this use of System.out by a logger.(ÄãıÕøÿÿÿÿ8‹Æøù€2J$b7a4f422-4d45-4e68-ae4e-99169ca08587

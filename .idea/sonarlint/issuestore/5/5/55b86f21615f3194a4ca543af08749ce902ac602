@@ -1,10 +1,7 @@
 
 ¬
-java:S1319"dThe type of "visited" should be an interface such as "Set" rather than the implementation "HashSet".(½ôşïüÿÿÿÿ8ÇÅøù€2J$b9d3065f-f6c5-4a34-b17f-304e14f5e795
+java:S1319"dThe type of "visited" should be an interface such as "Set" rather than the implementation "HashSet".(½ôşïüÿÿÿÿ8ÇÅøù€2J$dcef6e4e-a9be-446f-b787-7966aeb1de9f
 …
-java:S1659"BDeclare "sheep" and all following declarations on a separate line.(ÃÃÍ–8‡Æøù€2J$4ef707de-cf5b-488f-a97a-c5900f57b24a
-r	java:S106W"+Replace this use of System.out by a logger.(ÄãıÕøÿÿÿÿ8‹Æøù€2J$13dc827a-0607-4dba-a664-a27ba99fe90c
-n
-java:S1128"+Remove this unused import 'java.sql.Array'.(Õø‹ù8‹Æøù€2J$8fb454fd-7e9f-4928-a5df-a60dcda12547
-v
-java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8‹Æøù€2J$89e8e2d0-ce1c-4d3a-b910-91659ecbf7c7
+java:S1659
+"BDeclare "sheep" and all following declarations on a separate line.(ÃÃÍ–8‡Æøù€2J$2a4493f5-235d-41ce-9cef-87dd7bc5050a
+r	java:S106U"+Replace this use of System.out by a logger.(ÄãıÕøÿÿÿÿ8‹Æøù€2J$b7a4f422-4d45-4e68-ae4e-99169ca08587

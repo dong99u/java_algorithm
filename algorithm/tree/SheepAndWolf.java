@@ -1,9 +1,7 @@
 package algorithm.tree;
 
-import java.sql.Array;
 import java.util.ArrayDeque;
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.HashSet;
 
 public class SheepAndWolf {

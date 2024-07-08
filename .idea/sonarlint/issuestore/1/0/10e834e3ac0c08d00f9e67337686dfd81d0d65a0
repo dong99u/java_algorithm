@@ -1,0 +1,7 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Öƒ³û8×¸ÿ…2J$41924cbf-4971-484a-a705-2629c274c4ae
+³
+java:S13196"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ñ—€¥8×¸ÿ…2J$a7a5beb2-bc53-42c6-911c-deca79e64700
+f
+java:S1659"#Declare "currY" on a separate line.(±óÌ¼8ï¸ÿ…2J$1fb0f578-9f98-4778-82d1-00e319565960
+m	java:S106L"+Replace this use of System.out by a logger.(é“³½8ô¸ÿ…2J$4b75bfef-889b-43fa-92e9-b37c5bb4cf0b
